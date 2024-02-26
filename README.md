@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/jatintiwari1203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatintiwari1203" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jatintiwari1203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jatintiwari1203" height="30" width="40" /></a>
 </p>
-![](https://leetcard.jacoblin.cool/jatintiwari1203?ext=activity)
+![Leetcode Stats](https://leetcard.jacoblin.cool/jatintiwari1203?ext=heatmap)
 
 
 <h3 align="left">Languages and Tools:</h3>
