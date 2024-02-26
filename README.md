@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Jatin Tiwari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -8,6 +10,8 @@
 - 👯 I’m looking to collaborate on **Python, DRF**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jatint1203](https://github.com/jatint1203)
+
+![](https://leetcard.jacoblin.cool/jatintiwari1203?animation=false)
 
 - 📫 How to reach me **jatintiwari9312@gmail.com**
 
