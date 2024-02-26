@@ -63,7 +63,7 @@ I am a Back-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ![LeetCode](https://leetcard.jacoblin.cool/jatintiwari1203?animation=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?jatint1203&layout=compact&theme=vision-friendly-dark)](https://github.com/jatint1203/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jatint1203&layout=compact&theme=vision-friendly-dark)](https://github.com/jatint1203/github-readme-stats)
 
 ---
 
