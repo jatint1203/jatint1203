@@ -11,9 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jatint1203](https://github.com/jatint1203)
 
-![](https://leetcard.jacoblin.cool/jatintiwari1203?animation=false)
+![](https://leetcard.jacoblin.cool/jatintiwari1203?animation=true)
 
-![](https://leetcard.jacoblin.cool/jatintiwari1203?ext=contest)
 
 - 📫 How to reach me **jatintiwari9312@gmail.com**
 
