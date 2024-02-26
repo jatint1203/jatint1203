@@ -4,12 +4,12 @@
     <a href="https://www.linkedin.com/in/jatintiwari1203/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="your-youtube-URL">
+<!--     <a href="your-youtube-URL">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    <a href="your-twitter-URL">
+    </a> -->
+<!--     <a href="your-twitter-URL">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
+    </a> -->
   </div>
   <img src="https://komarev.com/ghpvc/?username=jatint1203&style=flat-square&color=blue" alt=""/>
   <h1>
@@ -77,11 +77,11 @@ I am a Back-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jatintiwari1203&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ![](https://leetcard.jacoblin.cool/jatintiwari1203?animation=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?jatintiwari1203&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?jatintiwari1203&layout=compact&theme=vision-friendly-dark)](https://github.com/jatintiwari1203/github-readme-stats)
 
 ---
 
